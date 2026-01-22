@@ -1,6 +1,4 @@
 test1
 test2
-merge test main
-
 merge test -test
 
